@@ -2,8 +2,8 @@
 
 
 
-<a href="https://well-wedolovemovies-frontend.herokuapp.com/">deployed frontend</a> <br>
-<a href="https://well-wedolovemovies-backend.herokuapp.com/">deployed backend</a>
+<a href="https://well-wedolovemovies-frontend.herokuapp.com/" target="_blank">deployed frontend</a> <br>
+<a href="https://well-wedolovemovies-backend.herokuapp.com/" target="_blank">deployed backend</a>
 
 ## Description
 The goal of this project was to create a RESTful API by writing and using installed middleware.
